@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.93ffd0a8.chunk.css",
-    "main.js": "/static/js/main.93166b85.chunk.js",
-    "main.js.map": "/static/js/main.93166b85.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3747d922.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3747d922.js.map",
-    "static/js/2.4297815b.chunk.js": "/static/js/2.4297815b.chunk.js",
-    "static/js/2.4297815b.chunk.js.map": "/static/js/2.4297815b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.18a52f2de3920399c52363bb26ab92e4.js": "/precache-manifest.18a52f2de3920399c52363bb26ab92e4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.93ffd0a8.chunk.css.map": "/static/css/main.93ffd0a8.chunk.css.map",
-    "static/js/2.4297815b.chunk.js.LICENSE.txt": "/static/js/2.4297815b.chunk.js.LICENSE.txt",
-    "static/js/main.93166b85.chunk.js.LICENSE.txt": "/static/js/main.93166b85.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/static/media/spinner.235b9b3e.gif"
+    "main.css": "/breaking-bad-cast-using-react/static/css/main.46e9d88d.chunk.css",
+    "main.js": "/breaking-bad-cast-using-react/static/js/main.4d4938c4.chunk.js",
+    "main.js.map": "/breaking-bad-cast-using-react/static/js/main.4d4938c4.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-cast-using-react/static/js/runtime-main.bbf2a48b.js",
+    "runtime-main.js.map": "/breaking-bad-cast-using-react/static/js/runtime-main.bbf2a48b.js.map",
+    "static/js/2.4297815b.chunk.js": "/breaking-bad-cast-using-react/static/js/2.4297815b.chunk.js",
+    "static/js/2.4297815b.chunk.js.map": "/breaking-bad-cast-using-react/static/js/2.4297815b.chunk.js.map",
+    "index.html": "/breaking-bad-cast-using-react/index.html",
+    "precache-manifest.55c1c4add0bdf0b59b5053a1c5009365.js": "/breaking-bad-cast-using-react/precache-manifest.55c1c4add0bdf0b59b5053a1c5009365.js",
+    "service-worker.js": "/breaking-bad-cast-using-react/service-worker.js",
+    "static/css/main.46e9d88d.chunk.css.map": "/breaking-bad-cast-using-react/static/css/main.46e9d88d.chunk.css.map",
+    "static/js/2.4297815b.chunk.js.LICENSE.txt": "/breaking-bad-cast-using-react/static/js/2.4297815b.chunk.js.LICENSE.txt",
+    "static/js/main.4d4938c4.chunk.js.LICENSE.txt": "/breaking-bad-cast-using-react/static/js/main.4d4938c4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-cast-using-react/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/breaking-bad-cast-using-react/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/breaking-bad-cast-using-react/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.3747d922.js",
+    "static/js/runtime-main.bbf2a48b.js",
     "static/js/2.4297815b.chunk.js",
-    "static/css/main.93ffd0a8.chunk.css",
-    "static/js/main.93166b85.chunk.js"
+    "static/css/main.46e9d88d.chunk.css",
+    "static/js/main.4d4938c4.chunk.js"
   ]
 }
