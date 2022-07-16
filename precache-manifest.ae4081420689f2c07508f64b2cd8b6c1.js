@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a6577b67a53b20a860f546714dcdd40",
+    "revision": "a79f24b62db40dc64e632265e2ffc553",
     "url": "/breaking-bad-cast-using-react/index.html"
   },
   {
-    "revision": "3be5446e0de5d63d56a9",
+    "revision": "90aaea222243ea65e4bf",
     "url": "/breaking-bad-cast-using-react/static/css/main.46e9d88d.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breaking-bad-cast-using-react/static/js/2.4297815b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3be5446e0de5d63d56a9",
-    "url": "/breaking-bad-cast-using-react/static/js/main.4d4938c4.chunk.js"
+    "revision": "90aaea222243ea65e4bf",
+    "url": "/breaking-bad-cast-using-react/static/js/main.b1fda5df.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/breaking-bad-cast-using-react/static/js/main.4d4938c4.chunk.js.LICENSE.txt"
+    "url": "/breaking-bad-cast-using-react/static/js/main.b1fda5df.chunk.js.LICENSE.txt"
   },
   {
     "revision": "e3e4899b21fcb9eac897",
